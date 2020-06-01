@@ -13,7 +13,7 @@ The goal of the assesment is to test your abilities to:
 ## Technolgies
 
 1. React
-2. Grocery List Backend (http://localhost:5000/documentation)
+2. Grocery List Backend https://code-test-backend.now.sh/groceries
 
 ## Acceptance Critera
 
