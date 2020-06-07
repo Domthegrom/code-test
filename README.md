@@ -27,6 +27,7 @@ The goal of the assesment is to test your abilities to:
 ## Data Structure
 
 When creating the data structure of the shopping list it should look exactly like this (array of objects):
+You can utilize this data below as your mock data. Please just expand on the nutrition a little more.
 
 ```
 [
