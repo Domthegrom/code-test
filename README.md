@@ -4,7 +4,6 @@
 
 The goal of the assesment is to test your abilities to:
 
-1. Making an API call and retrieve data. 
 2. Handle asynchronous code (async/await/loading/error handling)
 3. Handle state managment (context or local state)
 4. Handle Gitflow (commits, pushes, etc)
