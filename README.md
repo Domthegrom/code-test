@@ -4,10 +4,10 @@
 
 The goal of the assesment is to test your abilities to:
 
-2. Handle asynchronous code (async/await/loading/error handling)
-3. Handle state managment (context or local state)
-4. Handle Gitflow (commits, pushes, etc)
-5. CSS and HTML standards
+1. Handle asynchronous code (async/await/loading/error handling)
+2. Handle state managment (context or local state)
+3. Handle Gitflow (commits, pushes, etc)
+4. CSS and HTML standards
 
 ## Technolgies
 
