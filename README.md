@@ -26,9 +26,9 @@ The goal of the assesment is to test your abilities to:
 
 ## Data Structure
 
-When creating the data structure of the shopping list each object should have these set attributes:
+When creating the data structure of the shopping list it should look exactly like this (array of objects):
 
-```const shoppingList = [
+```[
     {
         id: 1,
         name: "Carrots",
@@ -119,4 +119,4 @@ When creating the data structure of the shopping list each object should have th
             sugars: 11
         }]
     },
-]```
+]
