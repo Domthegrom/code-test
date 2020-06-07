@@ -28,7 +28,8 @@ The goal of the assesment is to test your abilities to:
 
 When creating the data structure of the shopping list it should look exactly like this (array of objects):
 
-```[
+```
+[
     {
         id: 1,
         name: "Carrots",
