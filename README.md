@@ -37,7 +37,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 3
-        }]
+        }],
+        selected: false
     },
     {
         id: 2,
@@ -46,7 +47,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 7
-        }]
+        }],
+        selected: false
     },
     {
         id: 3,
@@ -55,7 +57,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 2
-        }]
+        }],
+        selected: false
     },
     {
         id: 4,
@@ -64,7 +67,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 4
-        }]
+        }],
+        selected: false
     },
     {
         id: 5,
@@ -73,7 +77,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 1
-        }]
+        }],
+        selected: false
     },
     {
         id: 6,
@@ -82,7 +87,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 19
-        }]
+        }],
+        selected: false
     },
     {
         id: 7,
@@ -91,7 +97,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 7
-        }]
+        }],
+        selected: false
     },
     {
         id: 8,
@@ -100,7 +107,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 5
-        }]
+        }],
+        selected: false
     },
     {
         id: 9,
@@ -109,7 +117,8 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 4
-        }]
+        }],
+        selected: false
     },
     {
         id: 10,
@@ -118,6 +127,7 @@ You can utilize this data below as your mock data. Please just expand on the nut
         quantity: 0,
         nutrition: [{
             sugars: 11
-        }]
+        }],
+        selected: false
     },
 ]
